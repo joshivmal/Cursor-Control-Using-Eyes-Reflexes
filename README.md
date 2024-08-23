@@ -1,4 +1,4 @@
-# Eye-Controlled Mouse
+# VisionCLick
 
 ## Overview
 
